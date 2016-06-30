@@ -1,2 +1,2 @@
 # API-JSON
-Small task complete for my Shopify application.
+Small task completed for my Shopify application.
